@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-cron-job",
+  "version": "1.0.0",
+  "description": "A cron job to automatically submit LeetCode solutions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
